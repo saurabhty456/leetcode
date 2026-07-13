@@ -22,4 +22,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/saurabhty456/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/saurabhty456/leetcode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
