@@ -51,4 +51,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/saurabhty456/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhty456/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhty456/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
