@@ -41,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/saurabhty456/leetcode/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/saurabhty456/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/saurabhty456/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saurabhty456/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/saurabhty456/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/saurabhty456/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
