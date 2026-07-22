@@ -27,6 +27,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/saurabhty456/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0547-number-of-provinces](https://github.com/saurabhty456/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/saurabhty456/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -54,6 +55,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/saurabhty456/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0547-number-of-provinces](https://github.com/saurabhty456/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/saurabhty456/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -130,9 +132,11 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/saurabhty456/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saurabhty456/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/saurabhty456/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saurabhty456/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
