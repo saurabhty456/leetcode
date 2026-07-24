@@ -16,6 +16,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/saurabhty456/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhty456/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurabhty456/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/saurabhty456/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saurabhty456/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/saurabhty456/leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/saurabhty456/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/saurabhty456/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/saurabhty456/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhty456/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurabhty456/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/saurabhty456/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhty456/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saurabhty456/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
@@ -149,4 +152,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurabhty456/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/saurabhty456/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 <!---LeetCode Topics End-->
