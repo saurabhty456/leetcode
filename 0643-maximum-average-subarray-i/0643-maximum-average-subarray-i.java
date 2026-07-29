@@ -19,6 +19,6 @@ class Solution {
             }
             j++;
         }
-        return (double)(maxa / k);
+        return (maxa / k);
     }
 }
