@@ -17,6 +17,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/saurabhty456/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/saurabhty456/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhty456/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhty456/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/saurabhty456/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/saurabhty456/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -67,6 +68,7 @@
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhty456/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/saurabhty456/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/saurabhty456/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saurabhty456/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhty456/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
