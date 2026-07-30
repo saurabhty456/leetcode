@@ -11,6 +11,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/saurabhty456/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/saurabhty456/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0994-rotting-oranges](https://github.com/saurabhty456/leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/saurabhty456/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/saurabhty456/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/saurabhty456/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhty456/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -157,6 +158,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/saurabhty456/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/saurabhty456/leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/saurabhty456/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/saurabhty456/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -181,5 +183,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/saurabhty456/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/saurabhty456/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saurabhty456/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/saurabhty456/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
