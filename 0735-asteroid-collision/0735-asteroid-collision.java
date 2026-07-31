@@ -1,7 +1,6 @@
 class Solution {
     public int[] asteroidCollision(int[] ast) {
         Stack<Integer>st=new Stack<>();
-        List<Integer>list=new ArrayList<>();
         for(int i=0;i<ast.length;i++)
         {
             int b=ast[i];
