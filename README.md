@@ -11,6 +11,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/saurabhty456/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/saurabhty456/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/saurabhty456/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [0877-stone-game](https://github.com/saurabhty456/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/saurabhty456/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/saurabhty456/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/saurabhty456/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -71,6 +72,7 @@
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0877-stone-game](https://github.com/saurabhty456/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhty456/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -100,6 +102,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/saurabhty456/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhty456/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/saurabhty456/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/saurabhty456/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhty456/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabhty456/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -205,4 +208,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabhty456/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/saurabhty456/leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
