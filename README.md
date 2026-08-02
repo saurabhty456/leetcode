@@ -24,6 +24,7 @@
 | [1732-find-the-highest-altitude](https://github.com/saurabhty456/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/saurabhty456/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhty456/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/saurabhty456/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurabhty456/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/saurabhty456/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saurabhty456/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhty456/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhty456/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/saurabhty456/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabhty456/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
