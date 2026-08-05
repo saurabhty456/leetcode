@@ -59,6 +59,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/saurabhty456/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saurabhty456/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/saurabhty456/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/saurabhty456/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,12 +89,14 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/saurabhty456/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saurabhty456/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/saurabhty456/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/saurabhty456/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/saurabhty456/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/saurabhty456/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
