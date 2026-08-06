@@ -25,6 +25,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/saurabhty456/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhty456/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saurabhty456/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurabhty456/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/saurabhty456/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/saurabhty456/leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -59,6 +60,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/saurabhty456/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saurabhty456/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/saurabhty456/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/saurabhty456/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/saurabhty456/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/saurabhty456/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/saurabhty456/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,16 +100,19 @@
 | [0547-number-of-provinces](https://github.com/saurabhty456/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/saurabhty456/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/saurabhty456/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +235,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saurabhty456/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## 0-1 BFS
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 <!---LeetCode Topics End-->
