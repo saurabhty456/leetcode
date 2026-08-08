@@ -22,6 +22,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/saurabhty456/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhty456/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/saurabhty456/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhty456/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/saurabhty456/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/saurabhty456/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -103,6 +104,7 @@
 | [0547-number-of-provinces](https://github.com/saurabhty456/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/saurabhty456/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/saurabhty456/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/saurabhty456/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Heap (Priority Queue)
@@ -110,11 +112,13 @@
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1514-path-with-maximum-probability](https://github.com/saurabhty456/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/saurabhty456/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -247,5 +251,6 @@
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1514-path-with-maximum-probability](https://github.com/saurabhty456/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 <!---LeetCode Topics End-->
