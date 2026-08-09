@@ -58,6 +58,7 @@
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/saurabhty456/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0547-number-of-provinces](https://github.com/saurabhty456/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/saurabhty456/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/saurabhty456/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/saurabhty456/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -95,6 +96,7 @@
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/saurabhty456/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0547-number-of-provinces](https://github.com/saurabhty456/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/saurabhty456/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/saurabhty456/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saurabhty456/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -103,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/saurabhty456/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/saurabhty456/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/saurabhty456/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/saurabhty456/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -111,6 +114,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/saurabhty456/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/saurabhty456/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -118,6 +122,7 @@
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/saurabhty456/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/saurabhty456/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
@@ -255,6 +260,7 @@
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/saurabhty456/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/saurabhty456/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 <!---LeetCode Topics End-->
