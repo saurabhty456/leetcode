@@ -31,6 +31,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/saurabhty456/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurabhty456/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/saurabhty456/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/saurabhty456/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/saurabhty456/leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -44,6 +45,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/saurabhty456/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurabhty456/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabhty456/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/saurabhty456/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
