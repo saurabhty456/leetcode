@@ -1,21 +1,19 @@
 class Solution {
-    public int[] occurrencesOfElement(int[] nums, int[] q, int x) {
-        int ans[]=new int [q.length];
-        Map<Integer,Integer>map=new HashMap<>();
-        int c=0;
-        for(int i=0;i<nums.length;i++)
-        {
-            if(nums[i]==x)
-            {
-                c++;
-                map.put(c,i);
+    public int[] occurrencesOfElement(int[] nums, int[] queries, int x) {
+        List<Integer> lst = new ArrayList<>();
+        for(int i =0;i<nums.length;i++){
+            if(nums[i] == x){
+                lst.add(i);
             }
         }
-        for(int i=0;i<q.length;i++)
-        {
-            int occ=q[i];
-            ans[i]=map.getOrDefault(occ,-1);
+        int arr[] = new int[queries.length];
+        for(int i =0;i<queries.length;i++){
+            if(queries[i] > lst.size()){
+                arr[i] = -1;
+            }else{
+                arr[i] = lst.get(queries[i]-1);
+            }
         }
-        return ans;
+        return arr;
     }
 }
