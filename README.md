@@ -53,6 +53,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saurabhty456/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurabhty456/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabhty456/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/saurabhty456/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/saurabhty456/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
@@ -190,6 +191,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/saurabhty456/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabhty456/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabhty456/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/saurabhty456/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saurabhty456/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/saurabhty456/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Simulation
@@ -256,6 +258,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saurabhty456/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhty456/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saurabhty456/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/saurabhty456/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
