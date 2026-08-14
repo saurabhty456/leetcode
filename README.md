@@ -10,6 +10,7 @@
 | [0238-product-of-array-except-self](https://github.com/saurabhty456/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/saurabhty456/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhty456/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/saurabhty456/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/saurabhty456/leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -46,6 +47,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/saurabhty456/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/saurabhty456/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/saurabhty456/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhty456/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhty456/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -61,6 +63,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/saurabhty456/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/saurabhty456/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhty456/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhty456/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
