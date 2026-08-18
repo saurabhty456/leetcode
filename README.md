@@ -18,6 +18,7 @@
 | [0724-find-pivot-index](https://github.com/saurabhty456/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/saurabhty456/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0877-stone-game](https://github.com/saurabhty456/leetcode/tree/main/0877-stone-game/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/saurabhty456/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0994-rotting-oranges](https://github.com/saurabhty456/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/saurabhty456/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/saurabhty456/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -210,6 +211,7 @@
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/saurabhty456/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/saurabhty456/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/saurabhty456/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1260-shift-2d-grid](https://github.com/saurabhty456/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/saurabhty456/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saurabhty456/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -218,6 +220,7 @@
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/saurabhty456/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/saurabhty456/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/saurabhty456/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saurabhty456/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/saurabhty456/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Greedy
