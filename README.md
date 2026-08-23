@@ -166,6 +166,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhty456/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/saurabhty456/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/saurabhty456/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1927-sum-game](https://github.com/saurabhty456/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhty456/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabhty456/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saurabhty456/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -206,6 +207,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saurabhty456/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saurabhty456/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/saurabhty456/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1927-sum-game](https://github.com/saurabhty456/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/saurabhty456/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabhty456/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabhty456/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -238,6 +240,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/saurabhty456/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saurabhty456/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/saurabhty456/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/saurabhty456/leetcode/tree/main/1927-sum-game/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabhty456/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabhty456/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saurabhty456/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -305,6 +308,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/saurabhty456/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1927-sum-game](https://github.com/saurabhty456/leetcode/tree/main/1927-sum-game/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
