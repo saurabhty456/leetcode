@@ -226,6 +226,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saurabhty456/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/saurabhty456/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/saurabhty456/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/saurabhty456/leetcode/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +248,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saurabhty456/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/saurabhty456/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/saurabhty456/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/saurabhty456/leetcode/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +324,7 @@
 | [0169-majority-element](https://github.com/saurabhty456/leetcode/tree/main/0169-majority-element/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabhty456/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/saurabhty456/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/saurabhty456/leetcode/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
