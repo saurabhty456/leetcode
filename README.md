@@ -39,6 +39,7 @@
 | [1732-find-the-highest-altitude](https://github.com/saurabhty456/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/saurabhty456/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhty456/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/saurabhty456/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saurabhty456/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saurabhty456/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -261,6 +262,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saurabhty456/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/saurabhty456/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/saurabhty456/leetcode/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/saurabhty456/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabhty456/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabhty456/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saurabhty456/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
