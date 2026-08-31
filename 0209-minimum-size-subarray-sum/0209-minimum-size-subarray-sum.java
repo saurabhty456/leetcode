@@ -13,10 +13,6 @@ class Solution {
             i++;
         }
        }
-       if(c==Integer.MAX_VALUE)
-       {
-        return 0;
-       }
-       return c;
+       return c==Integer.MAX_VALUE?0:c;
     }
 }
