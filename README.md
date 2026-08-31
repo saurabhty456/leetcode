@@ -338,6 +338,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/saurabhty456/leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saurabhty456/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## 0-1 BFS
 | Problem Name | Difficulty |
