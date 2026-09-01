@@ -78,6 +78,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/saurabhty456/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/saurabhty456/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/saurabhty456/leetcode/tree/main/3731-find-missing-elements/) | Easy |
+| [3941-password-strength](https://github.com/saurabhty456/leetcode/tree/main/3941-password-strength/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/saurabhty456/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/saurabhty456/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/saurabhty456/leetcode/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
+| [3941-password-strength](https://github.com/saurabhty456/leetcode/tree/main/3941-password-strength/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
