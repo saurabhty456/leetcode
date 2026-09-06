@@ -41,6 +41,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhty456/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/saurabhty456/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhty456/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/saurabhty456/leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/saurabhty456/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/saurabhty456/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhty456/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -76,6 +77,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/saurabhty456/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/saurabhty456/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhty456/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/saurabhty456/leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saurabhty456/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2374-node-with-highest-edge-score](https://github.com/saurabhty456/leetcode/tree/main/2374-node-with-highest-edge-score/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saurabhty456/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -344,6 +346,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/saurabhty456/leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saurabhty456/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhty456/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/saurabhty456/leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/saurabhty456/leetcode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/saurabhty456/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saurabhty456/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
