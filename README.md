@@ -153,6 +153,7 @@
 | [0392-is-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/saurabhty456/leetcode/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/saurabhty456/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhty456/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saurabhty456/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Depth-First Search
@@ -242,6 +243,7 @@
 | [0392-is-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/saurabhty456/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0791-custom-sort-string](https://github.com/saurabhty456/leetcode/tree/main/0791-custom-sort-string/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/saurabhty456/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/saurabhty456/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saurabhty456/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saurabhty456/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
