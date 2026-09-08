@@ -45,6 +45,7 @@
 | [1732-find-the-highest-altitude](https://github.com/saurabhty456/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurabhty456/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/saurabhty456/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/saurabhty456/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhty456/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saurabhty456/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saurabhty456/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -280,6 +281,7 @@
 | [0946-validate-stack-sequences](https://github.com/saurabhty456/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saurabhty456/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/saurabhty456/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/saurabhty456/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/saurabhty456/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/saurabhty456/leetcode/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Greedy
@@ -303,6 +305,7 @@
 | ------- | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/saurabhty456/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saurabhty456/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/saurabhty456/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
