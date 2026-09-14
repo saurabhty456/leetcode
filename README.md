@@ -205,6 +205,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/saurabhty456/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhty456/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/saurabhty456/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/saurabhty456/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/saurabhty456/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1927-sum-game](https://github.com/saurabhty456/leetcode/tree/main/1927-sum-game/) | Medium |
@@ -456,4 +457,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0773-sliding-puzzle](https://github.com/saurabhty456/leetcode/tree/main/0773-sliding-puzzle/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/saurabhty456/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
