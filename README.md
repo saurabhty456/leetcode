@@ -154,6 +154,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/saurabhty456/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/saurabhty456/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0338-counting-bits](https://github.com/saurabhty456/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0392-is-subsequence/) | Easy |
@@ -204,6 +205,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/saurabhty456/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0070-climbing-stairs](https://github.com/saurabhty456/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhty456/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/saurabhty456/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/saurabhty456/leetcode/tree/main/0877-stone-game/) | Medium |
@@ -444,6 +446,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/saurabhty456/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0773-sliding-puzzle](https://github.com/saurabhty456/leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 ## Heuristic Search
 | Problem Name | Difficulty |
