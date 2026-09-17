@@ -42,6 +42,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/saurabhty456/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/saurabhty456/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhty456/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhty456/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/saurabhty456/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhty456/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -83,6 +84,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/saurabhty456/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhty456/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/saurabhty456/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhty456/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhty456/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/saurabhty456/leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saurabhty456/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -167,6 +169,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/saurabhty456/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/saurabhty456/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhty456/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhty456/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saurabhty456/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/saurabhty456/leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -375,6 +378,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/saurabhty456/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/saurabhty456/leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saurabhty456/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhty456/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhty456/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/saurabhty456/leetcode/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurabhty456/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -391,6 +395,7 @@
 | [0875-koko-eating-bananas](https://github.com/saurabhty456/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/saurabhty456/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saurabhty456/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhty456/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurabhty456/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/saurabhty456/leetcode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Counting
