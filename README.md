@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/saurabhty456/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/saurabhty456/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/saurabhty456/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhty456/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -163,6 +164,7 @@
 | [0115-distinct-subsequences](https://github.com/saurabhty456/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/saurabhty456/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/saurabhty456/leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/saurabhty456/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0773-sliding-puzzle](https://github.com/saurabhty456/leetcode/tree/main/0773-sliding-puzzle/) | Hard |
@@ -394,6 +396,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saurabhty456/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabhty456/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/saurabhty456/leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/saurabhty456/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/saurabhty456/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -479,4 +482,8 @@
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/saurabhty456/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/saurabhty456/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
