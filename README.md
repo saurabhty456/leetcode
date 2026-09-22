@@ -33,6 +33,7 @@
 | [0946-validate-stack-sequences](https://github.com/saurabhty456/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0994-rotting-oranges](https://github.com/saurabhty456/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/saurabhty456/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1048-longest-string-chain](https://github.com/saurabhty456/leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/saurabhty456/leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/saurabhty456/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/saurabhty456/leetcode/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -85,6 +86,7 @@
 | [0217-contains-duplicate](https://github.com/saurabhty456/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0791-custom-sort-string](https://github.com/saurabhty456/leetcode/tree/main/0791-custom-sort-string/) | Medium |
+| [1048-longest-string-chain](https://github.com/saurabhty456/leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/saurabhty456/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhty456/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/saurabhty456/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -116,6 +118,7 @@
 | [0769-max-chunks-to-make-sorted](https://github.com/saurabhty456/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0791-custom-sort-string](https://github.com/saurabhty456/leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/saurabhty456/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1048-longest-string-chain](https://github.com/saurabhty456/leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhty456/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/saurabhty456/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -177,6 +180,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/saurabhty456/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/saurabhty456/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1048-longest-string-chain](https://github.com/saurabhty456/leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/saurabhty456/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saurabhty456/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saurabhty456/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -261,6 +265,7 @@
 | [0392-is-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/saurabhty456/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0881-boats-to-save-people](https://github.com/saurabhty456/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1048-longest-string-chain](https://github.com/saurabhty456/leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/saurabhty456/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/saurabhty456/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/saurabhty456/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -279,6 +284,7 @@
 | [0443-string-compression](https://github.com/saurabhty456/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0791-custom-sort-string](https://github.com/saurabhty456/leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/saurabhty456/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1048-longest-string-chain](https://github.com/saurabhty456/leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/saurabhty456/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saurabhty456/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saurabhty456/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
