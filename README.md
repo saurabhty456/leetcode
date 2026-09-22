@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/saurabhty456/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saurabhty456/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/saurabhty456/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhty456/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/saurabhty456/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/saurabhty456/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/saurabhty456/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -82,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurabhty456/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhty456/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/saurabhty456/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/saurabhty456/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saurabhty456/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -370,6 +372,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhty456/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/saurabhty456/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/saurabhty456/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saurabhty456/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -377,6 +380,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhty456/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/saurabhty456/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/saurabhty456/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saurabhty456/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -452,6 +456,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhty456/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/saurabhty456/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
