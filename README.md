@@ -62,6 +62,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/saurabhty456/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/saurabhty456/leetcode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/saurabhty456/leetcode/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/saurabhty456/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/saurabhty456/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saurabhty456/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -297,6 +298,7 @@
 | [1768-merge-strings-alternately](https://github.com/saurabhty456/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/saurabhty456/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/saurabhty456/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/saurabhty456/leetcode/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/saurabhty456/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/saurabhty456/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/saurabhty456/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -368,6 +370,7 @@
 | [1732-find-the-highest-altitude](https://github.com/saurabhty456/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurabhty456/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/saurabhty456/leetcode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/saurabhty456/leetcode/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/saurabhty456/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/saurabhty456/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Union-Find
