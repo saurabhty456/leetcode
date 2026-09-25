@@ -59,6 +59,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/saurabhty456/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhty456/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saurabhty456/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2187-minimum-time-to-complete-trips](https://github.com/saurabhty456/leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saurabhty456/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/saurabhty456/leetcode/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/saurabhty456/leetcode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -435,6 +436,7 @@
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/saurabhty456/leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saurabhty456/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saurabhty456/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2187-minimum-time-to-complete-trips](https://github.com/saurabhty456/leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/saurabhty456/leetcode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
