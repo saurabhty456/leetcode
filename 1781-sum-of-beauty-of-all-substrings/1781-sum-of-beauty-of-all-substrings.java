@@ -1,3 +1,4 @@
+//khud se kiya
 class Solution {
     public int beautySum(String s) {
         int sum=0;
