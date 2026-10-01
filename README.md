@@ -180,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/saurabhty456/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/saurabhty456/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/saurabhty456/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/saurabhty456/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/saurabhty456/leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -292,6 +293,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/saurabhty456/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/saurabhty456/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0072-edit-distance](https://github.com/saurabhty456/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/saurabhty456/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/saurabhty456/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/saurabhty456/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
