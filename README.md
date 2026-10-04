@@ -191,6 +191,7 @@
 | [0392-is-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/saurabhty456/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/saurabhty456/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/saurabhty456/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0773-sliding-puzzle](https://github.com/saurabhty456/leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saurabhty456/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/saurabhty456/leetcode/tree/main/0877-stone-game/) | Medium |
@@ -307,6 +308,7 @@
 | [0392-is-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/saurabhty456/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/saurabhty456/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/saurabhty456/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/saurabhty456/leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/saurabhty456/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/saurabhty456/leetcode/tree/main/1048-longest-string-chain/) | Medium |
@@ -352,6 +354,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/saurabhty456/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/saurabhty456/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/saurabhty456/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/saurabhty456/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
@@ -370,6 +373,7 @@
 | [0011-container-with-most-water](https://github.com/saurabhty456/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/saurabhty456/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/saurabhty456/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/saurabhty456/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0881-boats-to-save-people](https://github.com/saurabhty456/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saurabhty456/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -560,6 +564,7 @@
 | [0020-valid-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/saurabhty456/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/saurabhty456/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saurabhty456/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saurabhty456/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
