@@ -145,6 +145,7 @@
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/saurabhty456/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/saurabhty456/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0547-number-of-provinces](https://github.com/saurabhty456/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/saurabhty456/leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0773-sliding-puzzle](https://github.com/saurabhty456/leetcode/tree/main/0773-sliding-puzzle/) | Hard |
@@ -304,6 +305,7 @@
 | [0072-edit-distance](https://github.com/saurabhty456/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/saurabhty456/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/saurabhty456/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/saurabhty456/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/saurabhty456/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/saurabhty456/leetcode/tree/main/0443-string-compression/) | Medium |
@@ -535,6 +537,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0773-sliding-puzzle](https://github.com/saurabhty456/leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
