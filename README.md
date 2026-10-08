@@ -182,6 +182,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0062-unique-paths](https://github.com/saurabhty456/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/saurabhty456/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/saurabhty456/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/saurabhty456/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -246,6 +247,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/saurabhty456/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0062-unique-paths](https://github.com/saurabhty456/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/saurabhty456/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhty456/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/saurabhty456/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
@@ -585,4 +587,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/saurabhty456/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/saurabhty456/leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
