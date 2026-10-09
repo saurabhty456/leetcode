@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/saurabhty456/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saurabhty456/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0064-minimum-path-sum](https://github.com/saurabhty456/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/saurabhty456/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saurabhty456/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/saurabhty456/leetcode/tree/main/0169-majority-element/) | Easy |
@@ -161,6 +162,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/saurabhty456/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0773-sliding-puzzle](https://github.com/saurabhty456/leetcode/tree/main/0773-sliding-puzzle/) | Hard |
 | [0835-image-overlap](https://github.com/saurabhty456/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/saurabhty456/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -183,6 +185,7 @@
 | [0022-generate-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/saurabhty456/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0062-unique-paths](https://github.com/saurabhty456/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/saurabhty456/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/saurabhty456/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/saurabhty456/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/saurabhty456/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
